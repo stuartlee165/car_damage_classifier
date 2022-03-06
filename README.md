@@ -3,17 +3,14 @@ A simple web app that classifies images of car damage into three categories. Scr
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stuartlee165/car_damage_classifier/main?urlpath=voila%2Frender%2Fnotebook.ipynb)
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/stuartlee165/car_damage_classifier/main?urlpath=voila%2Frender%2Fnotebook.ipynb
-
 ### Confusion Matrix
 <p align="center">
-  <img src="https://github.com/stuartlee165/car_damage_classifier/blob/main/Images/carconfusionmatrix.png" width="400"/>
+  <img src="https://github.com/stuartlee165/car_damage_classifier/tree/main/images/carconfusionmatrix.png" width="400"/>
 </p>
 
 ### Web App Output
 <p align="center">
-  <img src="https://github.com/stuartlee165/car_damage_classifier/blob/main/Images/appscreenshot.png" width="400"/>
-</p>
+  <img src="https://github.com/stuartlee165/car_damage_classifier/tree/main/images/carapp.png" width="400"/>
+</p>https://github.com/stuartlee165/car_damage_classifier/tree/main/images/
 
  This mini project was completed as part of the FastAi course.
