@@ -1,5 +1,5 @@
-jupyterlab
-fastai==2.5.0
+fastbook
+fastai
 voila
 ipywidgets
 pathlib
