@@ -1,5 +1,5 @@
 fastbook
-fastai
+fastai2
 voila
 ipywidgets
 pathlib

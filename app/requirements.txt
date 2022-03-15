@@ -1,0 +1,6 @@
+fastbook
+fastai
+voila
+ipywidgets
+pathlib
+flask
