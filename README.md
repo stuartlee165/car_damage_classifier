@@ -11,7 +11,7 @@ A simple web app that classifies images of car damage into three categories. Scr
 ### Web App Output (AWS deployment in progress)
 Created a simple web app using Flask, Javascript, HTML and CSS.
 <p align="center">
-  <img src="https://github.com/stuartlee165/car_damage_classifier/blob/main/images/app_screenshot.png" width="400"/>
+  <img src="https://github.com/stuartlee165/car_damage_classifier/blob/main/images/app_screenshot.jpg" width="400"/>
 </p>
 
 <a href="https://course.fast.ai/" target="_blank"> This mini project was completed as part of the FastAi course.</a>
