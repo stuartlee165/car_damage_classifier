@@ -14,6 +14,12 @@ function readURL(input) {
     }
 }
 
+/* Below is using jQuery
+   An example of this would be $("#test").hide() - hides the element with id="test".
+   $(document).ready(function(){   --> this runs once document has finished loading
+   $(function(){		   --> is equivalent shorthand version of the above
+ */
+
 $(function () {
     $('#upload').on('change', function () {
         readURL(input);

@@ -24,21 +24,11 @@ path= cwd + '/model'
 print(path)
 
 address = path + '/model.pkl'
-print(address)
-# path = Path('model')
-
 
 #Loading  saved model
-# model = load_learner(path/'model.pkl')
-
 model = load_learner(address)
 
-
-
-
-
-
-# Rendering index.html at /
+# Rendering index.html at / (looks in templates folder)
 @app.route('/')
 def index():
     return render_template('index.html')
@@ -62,7 +52,7 @@ def upload():
 ### Routing option 1
 @app.route('/hello')
 def hello_world():
-   return 'hello world'
+   return 'hello this is a test'
 
 #running app at localhost on port 8080
 if __name__ == '__main__':
